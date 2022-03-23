@@ -1,6 +1,15 @@
 # NewsApp
+Display of News API with Angular and Bootstrap.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+
+### News Form
+
+![newsform](./src/assets/img/news-form.png);
+
+### News List
+
+![newslist](./src/assets/img/news-list.png);
 
 ## Development server
 
