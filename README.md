@@ -5,11 +5,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### News Form
 
-![newsform](./src/assets/img/news-form.png);
+![newsform](./src/assets/img/news-form.png)
 
 ### News List
 
-![newslist](./src/assets/img/news-list.png);
+![newslist](./src/assets/img/news-list.png)
 
 ## Development server
 
